@@ -1,2 +1,2 @@
 # RecaptchaV3
-Proyecto en .Net Core para implementar recaptvhaV3 de Google
+Proyecto en .Net Core para implementar recaptchaV3 de Google
